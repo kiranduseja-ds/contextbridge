@@ -4,7 +4,8 @@
 World's first NLP system that detects the gap between what someone **meant** and what they **wrote** — then predicts exactly how a reader will misunderstand it.
 
 ## Live Demo
-[Click here to try it live](paste your gradio link here)
+[https://03d89bf80c7a31f7cb.gradio.live
+
 
 ## The Problem
 Every AI tool today rephrases what you write.
