@@ -4,7 +4,7 @@
 World's first NLP system that detects the gap between what someone **meant** and what they **wrote** — then predicts exactly how a reader will misunderstand it.
 
 ## Live Demo
-https://03d89bf80c7a31f7cb.gradio.live
+ https://10848f81856d7d8669.gradio.live
 
 
 ## The Problem
